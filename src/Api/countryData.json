@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "country": "Japan",
+        "capital": "Tokyo",
+        "language": "Japanese",
+        "currency": "JPY",
+        "popular_cities": [
+            "Tokyo",
+            "Kyoto",
+            "Osaka"
+        ],
+        "best_time_to_visit": "March to May, September to November",
+        "famous_for": [
+            "Cherry blossoms",
+            "Temples",
+            "Sushi"
+        ]
+    },
+    {
+        "id": 2,
+        "country": "France",
+        "capital": "Paris",
+        "language": "French",
+        "currency": "EUR",
+        "popular_cities": [
+            "Paris",
+            "Nice",
+            "Lyon"
+        ],
+        "best_time_to_visit": "April to June, September to November",
+        "famous_for": [
+            "Eiffel Tower",
+            "Wine",
+            "Art museums"
+        ]
+    },
+    {
+        "id": 3,
+        "country": "Australia",
+        "capital": "Canberra",
+        "language": "English",
+        "currency": "AUD",
+        "popular_cities": [
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "best_time_to_visit": "September to November, March to May",
+        "famous_for": [
+            "Great Barrier Reef",
+            "Outback",
+            "Sydney Opera House"
+        ]
+    },
+    {
+        "id": 4,
+        "country": "Brazil",
+        "capital": "Brasília",
+        "language": "Portuguese",
+        "currency": "BRL",
+        "popular_cities": [
+            "Rio de Janeiro",
+            "São Paulo",
+            "Salvador"
+        ],
+        "best_time_to_visit": "December to March",
+        "famous_for": [
+            "Carnival",
+            "Amazon Rainforest",
+            "Beaches"
+        ]
+    },
+    {
+        "id": 5,
+        "country": "Italy",
+        "capital": "Rome",
+        "language": "Italian",
+        "currency": "EUR",
+        "popular_cities": [
+            "Rome",
+            "Venice",
+            "Florence"
+        ],
+        "best_time_to_visit": "April to June, September to October",
+        "famous_for": [
+            "Historic ruins",
+            "Pasta",
+            "Art and architecture"
+        ]
+    },
+    {
+        "id": 6,
+        "country": "South Africa",
+        "capital": "Pretoria",
+        "language": [
+            "Zulu",
+            "Xhosa",
+            "English",
+            "Afrikaans"
+        ],
+        "currency": "ZAR",
+        "popular_cities": [
+            "Cape Town",
+            "Johannesburg",
+            "Durban"
+        ],
+        "best_time_to_visit": "May to September",
+        "famous_for": [
+            "Safari",
+            "Table Mountain",
+            "Wine regions"
+        ]
+    },
+    {
+        "id": 7,
+        "country": "Canada",
+        "capital": "Ottawa",
+        "language": [
+            "English",
+            "French"
+        ],
+        "currency": "CAD",
+        "popular_cities": [
+            "Toronto",
+            "Vancouver",
+            "Montreal"
+        ],
+        "best_time_to_visit": "June to September",
+        "famous_for": [
+            "Niagara Falls",
+            "National parks",
+            "Winter sports"
+        ]
+    },
+    {
+        "id": 8,
+        "country": "Thailand",
+        "capital": "Bangkok",
+        "language": "Thai",
+        "currency": "THB",
+        "popular_cities": [
+            "Bangkok",
+            "Chiang Mai",
+            "Phuket"
+        ],
+        "best_time_to_visit": "November to early April",
+        "famous_for": [
+            "Temples",
+            "Beaches",
+            "Street food"
+        ]
+    },
+    {
+        "id": 9,
+        "country": "New Zealand",
+        "capital": "Wellington",
+        "language": "English",
+        "currency": "NZD",
+        "popular_cities": [
+            "Auckland",
+            "Wellington",
+            "Queenstown"
+        ],
+        "best_time_to_visit": "December to February",
+        "famous_for": [
+            "Adventure sports",
+            "Scenic landscapes",
+            "Maori culture"
+        ]
+    },
+    {
+        "id": 10,
+        "country": "Egypt",
+        "capital": "Cairo",
+        "language": "Arabic",
+        "currency": "EGP",
+        "popular_cities": [
+            "Cairo",
+            "Luxor",
+            "Alexandria"
+        ],
+        "best_time_to_visit": "October to April",
+        "famous_for": [
+            "Pyramids",
+            "Nile River",
+            "Ancient history"
+        ]
+    }
+]
