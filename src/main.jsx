@@ -9,24 +9,32 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Country from './pages/Country';
+import AppLayout from './components/Layout/AppLayout';
 
 const router = createBrowserRouter([
   {
-    path: "/",
-    element: <Home></Home>,
+    path: '/',
+    element: <AppLayout></AppLayout>,
+    children: [
+      {
+        path: "/",
+        element: <Home></Home>,
+      },
+      {
+        path: '/about',
+        element: <About></About>,
+      },
+      {
+        path: '/contact',
+        element: <Contact></Contact>,
+      },
+      {
+        path: '/country',
+        element: <Country></Country>,
+      }
+    ]
   },
-  {
-    path: '/about',
-    element: <About></About>,
-  },
-  {
-    path: '/contact',
-    element: <Contact></Contact>,
-  },
-  {
-    path: '/country',
-    element: <Country></Country>,
-  }
+
 ]);
 createRoot(document.getElementById('root')).render(
   <StrictMode>
