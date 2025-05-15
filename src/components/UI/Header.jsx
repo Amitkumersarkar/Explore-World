@@ -6,7 +6,7 @@ const Header = () => {
 
     return (
         <div className="flex justify-between my-12 items-center p-4 bg-gray-800 shadow-md">
-            <div className="text-2xl font-bold">
+            <div className="text-2xl font-bold text-white">
                 <NavLink to='/'>
                     <h1>ExploreMore</h1>
                 </NavLink>
