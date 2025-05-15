@@ -6,9 +6,11 @@ const AppLayout = () => {
 
     return (
         <>
-            <Header></Header>
-            <Outlet></Outlet>
-            <Footer></Footer>
+            <div className="w-10/12 mx-auto text-center">
+                <Header></Header>
+                <Outlet></Outlet>
+                <Footer></Footer>
+            </div>
         </>
     );
 };
