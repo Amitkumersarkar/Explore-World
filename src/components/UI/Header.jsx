@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Header = () => {
     const navLinkStyles = ({ isActive }) =>
-        isActive ? "text-blue-500 font-semibold" : "text-gray-700 hover:text-sky-500";
+        isActive ? "text-blue-500 font-semibold" : "text-gray-600 hover:text-sky-500";
 
     return (
         <div className="flex justify-between my-12 items-center p-4 bg-gray-800 shadow-md">
