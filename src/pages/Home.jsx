@@ -6,7 +6,7 @@ const Home = () => {
         <main className="py-10 px-4">
             {/* parent div */}
             <div className="flex flex-col-reverse lg:flex-row items-center justify-between max-w-6xl mx-auto gap-8">
-                {/* content child-1 */}
+                {/* child-1 */}
                 <div className="lg:w-1/2 text-center lg:text-left">
                     <h1 className="text-2xl lg:text-4xl font-semibold mb-4">
                         Explore the world Now, one country at a time
@@ -22,7 +22,7 @@ const Home = () => {
                     </NavLink>
                 </div>
 
-                {/* image child-2 */}
+                {/* child-2 */}
                 <div className="lg:w-1/2 flex justify-center">
                     <img src="/images/world.png" alt="world tour" className="max-w-full h-auto object-contain" />
                 </div>
